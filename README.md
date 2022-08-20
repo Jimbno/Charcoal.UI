@@ -11,7 +11,7 @@ If you use a custom font with this resourcepack it may make writing unreadable i
 <img src="https://imgur.com/05XLwtI.png" />
 
 
- If you find a missing or broken UI, bother me at Jimbno#2134
+ If you find a missing or broken UI, bother me at ｔｙｒａｎｔ#5957
 
 
 
